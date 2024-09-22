@@ -1,0 +1,9 @@
+{
+  "Name": "0x1d7's QoL Patch",
+  "Enabled": true,
+  "Version": "0.1.0",
+  "Description": "Various quality of life patches",
+  "Author": "0x1d7",
+  "Website": "https://github.com/0x1d7/0x1d7QoL",
+  "DLL": "0x1d7QoL.dll"
+}
